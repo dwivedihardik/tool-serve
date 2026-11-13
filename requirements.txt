@@ -1,0 +1,9 @@
+transformers
+datasets
+accelerate
+torch
+pydantic>=2
+jsonschema
+numpy
+tqdm
+pytest
